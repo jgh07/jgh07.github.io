@@ -1,1 +1,1 @@
-https://jgh07.github.io/MyExtension.dll;
+https://jgh07.github.io/SampleExtension2.dll;
